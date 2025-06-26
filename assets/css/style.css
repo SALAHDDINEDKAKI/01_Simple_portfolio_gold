@@ -247,6 +247,7 @@ nav .right a span {
     filter: brightness(.9);
 }
 
+
 @media (max-width: 850px) {
     /* SECTION 1: Hero */
     .hero-section .text h2 {
